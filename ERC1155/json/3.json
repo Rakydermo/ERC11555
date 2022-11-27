@@ -1,0 +1,37 @@
+{
+    "name": "kbot",
+    "description": "fabrica kbots",
+    "image": "ipfs://bafybeia3icqaz4p2ghfi7pgqrfygkdhbpbebvex4rovqxyh46vnolj35am/kbotLab.jpg",
+    "external_url": "https://www.ageofempires.com/",
+    "attributes": [
+        {
+            "trait_type" : "Metal Cost",
+            "value": "620"
+        },
+        {
+            "trait_type" : "Energy Cost",
+            "value": "1000"
+        },
+        {
+            "trait_type" : "Build Time",
+            "value":	"6500"
+        },
+        {
+            "trait_type" : "Footprint",
+            "value": "6x6"
+        },
+        {
+            "trait_type" : "Category",
+            "value": "ARM NAIR NSUB NSHP NLND NEXP NNUK ALL LEV1 CTRL_F"
+        },
+        {
+            "trait_type" : "Max Damage",
+            "value": "2580"
+        },
+        {
+            "display_type": "boost_percentage",
+            "trait_type": "Tiempo de construccion (segundos)",
+            "value": 160
+        }
+    ]
+}

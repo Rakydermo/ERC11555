@@ -1,0 +1,38 @@
+{
+    "name": "Commander",
+    "description": "Commander Part of the great Arm army",
+    "image": "ipfs://bafybeia3icqaz4p2ghfi7pgqrfygkdhbpbebvex4rovqxyh46vnolj35am/commander.jpg",
+    "external_url": "http://taesc.tauniverse.com/modinfo/output/units_armcom.html",
+    "attributes": [
+        
+    {   
+        "trait_type" : "Metal Cost", 
+        "value":	"962"
+    },
+    {
+        "trait_type" : "Energy Cost",
+        "value": "17342"
+    },
+    {
+        "trait_type" : "Build Time", 
+        "value": "24048"
+    },
+    {
+        "trait_type" : "Footprint", 
+        "value": "2x2"
+    },
+    {
+        "trait_type" : "Category", 
+        "value": "ARM COMMANDER NAIR NSUB NSHP LEV0 NEXP ALL CTRL_C"
+    },
+    {  
+        "trait_type" : "Max Damage",
+         "value": "4500"
+    },
+    {
+        "display_type": "boost_percentage",
+        "trait_type": "Tiempo de construccion (segundos)",
+        "value": 25
+    }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "energy",
+    "description": "Energy",
+    "image": "ipfs://bafybeia3icqaz4p2ghfi7pgqrfygkdhbpbebvex4rovqxyh46vnolj35am/energy.jpg",
+    "external_url": "http://taesc.tauniverse.com/",
+    "attributes": [
+        {
+            "trait_type": "Tipo",
+            "value": "Recurso básico"
+        },
+        {
+            "trait_type": "Balance total",
+            "value": 100000
+        }
+    ]
+}

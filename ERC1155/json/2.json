@@ -1,0 +1,16 @@
+{
+    "name": "metal",
+    "description": "metal",
+    "image": "ipfs://bafybeia3icqaz4p2ghfi7pgqrfygkdhbpbebvex4rovqxyh46vnolj35am/madera.png",
+    "external_url": "http://taesc.tauniverse.com/",
+    "attributes": [
+        {
+            "trait_type": "Tipo",
+            "value": "Recurso basico"
+        },
+        {
+            "trait_type": "Balance total",
+            "value": 1000000
+        }
+    ]
+}
