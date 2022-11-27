@@ -1,0 +1,51 @@
+{
+    "name": "Catedral",
+    "description": "La Catedral es un edificio de culto. En las campañas, a menudo, se utiliza como un edificio estetico para las grandes ciudades, pero por lo general como el punto exacto de un objetivo. La catedral es muy similar en apariencia a la Maravilla britanica.",
+    "image": "ipfs://bafybeicfy56l6z3fupyilqiu3i7ipsi6f6vhtd4dmyhtftspcxtf4xkt3q/catedral.png",
+    "external_url": "https://www.ageofempires.com/",
+    "attributes": [
+        {
+            "trait_type": "Tipo",
+            "value": "Edificio de culto"
+        },
+        {
+            "trait_type": "Poblacion",
+            "value": 100
+        },
+        {
+            "trait_type": "Resistencia",
+            "value": 100,
+            "max_value": 1000
+        },
+        {
+            "trait_type": "Armadura",
+            "value": 3,
+            "max_value": 5
+        },
+        {
+            "trait_type": "Armadura anti-proyectil",
+            "value": 3,
+            "max_value": 5
+        },
+        {
+            "trait_type": "Linea de vision",
+            "value": 5,
+            "max_value": 20
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Madera necesaria",
+            "value": 120
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Piedra necesaria",
+            "value": 180
+        },
+        {
+            "display_type": "boost_percentage",
+            "trait_type": "Tiempo de construccion (segundos)",
+            "value": 120
+        }
+    ]
+}

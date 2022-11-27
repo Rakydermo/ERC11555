@@ -1,0 +1,16 @@
+{
+    "name": "Cobre",
+    "description": "El cobre es uno de los recursos básicos. Es necesario para la creacion de edificios y armamento. Se puede conseguir cobre de varias formas.",
+    "image": "ipfs://bafybeicfy56l6z3fupyilqiu3i7ipsi6f6vhtd4dmyhtftspcxtf4xkt3q/cobre.png",
+    "external_url": "https://www.ageofempires.com/",
+    "attributes": [
+        {
+            "trait_type": "Tipo",
+            "value": "Recurso básico"
+        },
+        {
+            "trait_type": "Balance total",
+            "value": 100000
+        }
+    ]
+}

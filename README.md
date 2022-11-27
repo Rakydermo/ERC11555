@@ -1,2 +1,1 @@
-# ERC11555
-ERC11555
+# ERC-Standards

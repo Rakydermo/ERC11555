@@ -1,0 +1,16 @@
+{
+    "name": "Madera",
+    "description": "La madera es uno de los recursos basicos. Es necesaria para la creacion de edificios y armamento. Se puede conseguir madera de varias formas.",
+    "image": "https://ipfs.io/ipfs/QmdSTXGSpaUJ2N8MDADdJot2omf85ibmt7PBtz6a4Vht9R/madera.png",
+    "external_url": "https://www.ageofempires.com/",
+    "attributes": [
+        {
+            "trait_type": "Tipo",
+            "value": "Recurso basico"
+        },
+        {
+            "trait_type": "Balance total",
+            "value": 1000000
+        }
+    ]
+}

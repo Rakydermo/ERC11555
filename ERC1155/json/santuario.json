@@ -1,0 +1,51 @@
+{
+    "name": "Santuario",
+    "description": "El santuario es un edificio único para las civilizaciones europeas. En el santuario se entrenan unidades de curacion como los Sacerdotes y los misioneros, ademas de espias. Por obvias razones los Otomanos no pueden construirlas, en su lugar construyen mezquitas.",
+    "image": "ipfs://bafybeicfy56l6z3fupyilqiu3i7ipsi6f6vhtd4dmyhtftspcxtf4xkt3q/santuario.png",
+    "external_url": "https://www.ageofempires.com/",
+    "attributes": [
+        {
+            "trait_type": "Tipo",
+            "value": "Edificio de curacion"
+        },
+        {
+            "trait_type": "Poblacion",
+            "value": 100
+        },
+        {
+            "trait_type": "Resistencia",
+            "value": 100,
+            "max_value": 1000
+        },
+        {
+            "trait_type": "Armadura",
+            "value": 3,
+            "max_value": 5
+        },
+        {
+            "trait_type": "Armadura anti-proyectil",
+            "value": 3,
+            "max_value": 5
+        },
+        {
+            "trait_type": "Linea de vision",
+            "value": 7,
+            "max_value": 20
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Madera necesaria",
+            "value": 140
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Piedra necesaria",
+            "value": 200
+        },
+        {
+            "display_type": "boost_percentage",
+            "trait_type": "Tiempo de construccion (segundos)",
+            "value": 160
+        }
+    ]
+}

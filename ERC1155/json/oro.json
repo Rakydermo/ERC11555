@@ -1,0 +1,16 @@
+{
+    "name": "Oro",
+    "description": "El oro es uno de los recursos avanzados. Es necesario para la creacion de unidades, la construcción de algunos edificios y la investigacion de tecnologias. Se puede conseguir oro de varias formas.",
+    "image": "ipfs://bafybeicfy56l6z3fupyilqiu3i7ipsi6f6vhtd4dmyhtftspcxtf4xkt3q/oro.png",
+    "external_url": "https://www.ageofempires.com/",
+    "attributes": [
+        {
+            "trait_type": "Tipo",
+            "value": "Recurso avanzado"
+        },
+        {
+            "trait_type": "Balance total",
+            "value": 1000
+        }
+    ]
+}
